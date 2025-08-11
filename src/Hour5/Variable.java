@@ -1,3 +1,5 @@
+package Hour5;
+
 public class Variable {
     public static void main(String[] args) {
         // in order of size

@@ -1,3 +1,5 @@
+package Hour6;
+
 public class Favorite {
     public static void main(String[] args) {
         String favorite = "chainsaw";

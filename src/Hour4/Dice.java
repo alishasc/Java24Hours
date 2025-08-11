@@ -1,3 +1,5 @@
+package Hour4;
+
 import java.util.Random;
 
 public class Dice {

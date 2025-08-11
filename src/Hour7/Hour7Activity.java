@@ -1,3 +1,5 @@
+package Hour7;
+
 public class Hour7Activity {
     public static void main(String[] args) {
         int grade = 63;

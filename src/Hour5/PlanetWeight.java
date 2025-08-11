@@ -1,3 +1,5 @@
+package Hour5;
+
 public class PlanetWeight {
     public static void main(String[] args) {
         System.out.print("Your weight on Earth is ");

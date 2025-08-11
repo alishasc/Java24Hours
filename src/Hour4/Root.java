@@ -1,3 +1,5 @@
+package Hour4;
+
 public class Root {
     public static void main(String[] args) {
         int number = 225;

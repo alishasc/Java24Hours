@@ -1,3 +1,5 @@
+package Hour5;
+
 public class Square {
     public static void main(String[] args) {
         int x = 4;
