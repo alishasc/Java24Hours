@@ -1,4 +1,4 @@
-package Hour6;
+package Hour6Strings;
 
 public class Credits {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Hour5;
+package Hour5Variables;
 
 public class Variable {
     public static void main(String[] args) {

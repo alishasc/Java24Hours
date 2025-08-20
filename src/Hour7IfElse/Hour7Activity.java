@@ -1,4 +1,4 @@
-package Hour7;
+package Hour7IfElse;
 
 public class Hour7Activity {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Hour8;
+package Hour8Loops;
 
 public class Benchmark {
     public static void main(String[] args) {

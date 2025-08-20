@@ -1,4 +1,4 @@
-package Hour8;
+package Hour8Loops;
 
 public class Nines {
     public static void main(String[] args) {
